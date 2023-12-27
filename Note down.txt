@@ -6,6 +6,8 @@ Softmax is for multi class classification
 Loss functions
 ResNet
 
+Reinforcement learning **
+
 PDDL - Planning domain definition language
 Overfitting and underfitting - how to counter
 
