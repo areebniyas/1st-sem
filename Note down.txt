@@ -1,0 +1,20 @@
+Note down:
+Activation Functions
+Graphs of sigmoid and ReLU
+Notes on ReLU and sigmoid
+Softmax is for multi class classification 
+Loss functions
+ResNet
+
+PDDL - Planning domain definition language
+Overfitting and underfitting - how to counter
+
+
+Evaluation metrics
+Accuracy - for classification models
+Mean Absolute Error (MAE), R-squared, Root Mean Square Error (RMSE) - regression models
+
+
+Done 
+Heuristic function, heuristic search algorithms
+greedy action, greedy selections
