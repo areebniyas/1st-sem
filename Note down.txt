@@ -17,6 +17,6 @@ Accuracy - for classification models
 Mean Absolute Error (MAE), R-squared, Root Mean Square Error (RMSE) - regression models
 
 
-Done 
+-------------------------------------------------------------------------------------------
 Heuristic function, heuristic search algorithms
 greedy action, greedy selections
