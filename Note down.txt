@@ -1,12 +1,15 @@
 Note down:
-ResNet
+size of filter x size of filter x 3 | type of questions
+no of trainable params
+greedy action, greedy selections
+adversarial agents, reflex agents
 
+ResNet
 Reinforcement learning **
 
 
 -------------------------------------------------------------------------------------------
 Heuristic function, heuristic search algorithms
-greedy action, greedy selections
 Activation Functions
 Graphs of sigmoid and ReLU
 Notes on ReLU and sigmoid
