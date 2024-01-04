@@ -1,7 +1,4 @@
 Note down:
-size of filter x size of filter x 3 | type of questions
-no of trainable params
-greedy action, greedy selections
 adversarial agents, reflex agents
 
 ResNet
@@ -23,3 +20,7 @@ Mean Absolute Error (MAE), R-squared, Root Mean Square Error (RMSE) - regression
 
 Softmax is for multi class classification 
 Loss functions
+
+size of filter x size of filter x 3 | type of questions
+no of trainable params
+greedy action, greedy selections
